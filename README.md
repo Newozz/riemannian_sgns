@@ -1,2 +1,2 @@
-# sk_topic_modelling
-Skoltech topic modelling experiments.
+# riemannian_sgns 
+Experimets with Riemannian optimization for word2vec (SGNS)
